@@ -1,0 +1,29 @@
+{
+    "id": "1cs", "url": "#",
+    "s1": {
+        "url": "#",
+        "modules": [
+            {"id": "1cs_s1_m2", "name": "Networking 1", "url": "#"},
+            {"id": "1cs_s1_m1", "name": "Operating Systems 1", "url": "#"},
+            {"id": "1cs_s1_m4", "name": "Databases", "url": "#"},
+            {"id": "1cs_s1_m3", "name": "Introduction to Software Engineering", "url": "#"},
+            {"id": "1cs_s1_m5", "name": "Language Theory", "url": "#"},
+            {"id": "1cs_s1_m6", "name": "Numerical Analysis", "url": "#"},
+            {"id": "1cs_s1_m7", "name": "Operational Research", "url": "#"},
+            {"id": "1cs_s1_m8", "name": "English Language 1", "url": "#"}
+        ]
+    },
+    "s2": {
+        "url": "#",
+        "modules": [
+            {"id": "1cs_s2_m2", "name": "Networking 2", "url": "#"},
+            {"id": "1cs_s2_m1", "name": "Operating Systems 2", "url": "#"},
+            {"id": "1cs_s2_m3", "name": "Advanced Computer Architecture", "url": "#"},
+            {"id": "1cs_s2_m6", "name": "Introduction to Computer Security", "url": "#"},
+            {"id": "1cs_s2_m4", "name": "Analysis and Design of Information Systems", "url": "#"},
+            {"id": "1cs_s2_m5", "name": "Web Languages and Tools", "url": "#"},
+            {"id": "1cs_s2_m7", "name": "Project Management", "url": "#"},
+            {"id": "1cs_s2_m8", "name": "English Language 2", "url": "#"}
+        ]
+    }
+}

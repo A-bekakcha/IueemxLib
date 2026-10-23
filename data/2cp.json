@@ -1,0 +1,28 @@
+{
+    "id": "2cp", "url": "#",
+    "s1": {
+        "url": "#",
+        "modules": [
+            {"id": "2cp_s1_m1", "name": "Object Oriented Programming", "url": "#"},
+            {"id": "2cp_s1_m2", "name": "Mathematical Analysis 3", "url": "#"},
+            {"id": "2cp_s1_m4", "name": "Linear Algebra 2", "url": "#"},
+            {"id": "2cp_s1_m5", "name": "Proba. & Stat 1", "url": "#"},
+            {"id": "2cp_s1_m6", "name": "Data Acquisition & Communication Electronics", "url": "#"},
+            {"id": "2cp_s1_m3", "name": "Computer Architecture Design", "url": "#"},
+            {"id": "2cp_s1_m7", "name": "Soft Skills & IT", "url": "#"}
+        ]
+    },
+    "s2": {
+        "url": "#",
+        "modules": [
+            {"id": "2cp_s2_m1", "name": "Graph Algorithms and Linear Optimization", "url": "#"},
+            {"id": "2cp_s2_m6", "name": "Databases: Fundamentals", "url": "#"},
+            {"id": "2cp_s2_m8", "name": "Web Technologies", "url": "#"},
+            {"id": "2cp_s2_m2", "name": "Mathematical Analysis 4", "url": "#"},
+            {"id": "2cp_s2_m3", "name": "Mathematical Logic", "url": "#"},
+            {"id": "2cp_s2_m4", "name": "Proba. & Stat 2", "url": "#"},
+            {"id": "2cp_s2_m7", "name": "Multidisciplinary Project", "url": "#"},
+            {"id": "2cp_s2_m9", "name": "Entrepreneurship", "url": "#"}
+        ]
+    }
+}
